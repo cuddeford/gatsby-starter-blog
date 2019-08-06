@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Body
   description: The main page content
+pages:
+- pages/about-us.md
